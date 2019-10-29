@@ -1,0 +1,29 @@
+{
+  "name": "@wcj1029/gpnote",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "王成军 <chengjun.wang>",
+  "homepage": "https://github.com/nest-center/learn-lerna#readme",
+  "license": "ISC",
+  "main": "lib/gpnote.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://172.16.4.201:5201/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nest-center/learn-lerna.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/nest-center/learn-lerna/issues"
+  }
+}

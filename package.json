@@ -1,0 +1,17 @@
+{
+	"name": "root",
+	"version": "1.0.1",
+	"publishConfig": {
+		"access": "public"
+	},
+	"scripts": {
+		"publish" : "node_modules/.bin/lerna publish --force-publish"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nest-center/learn-lerna.git"
+	},
+	"devDependencies": {
+		"lerna": "^3.18.3"
+	}
+}
