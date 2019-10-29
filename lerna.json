@@ -8,8 +8,7 @@
 				"ignored-file"
 			],
 			"message": "chore(release): publish",
-			"registry": "http://172.16.4.201:5201",
-			"distTag": "test"
+			"registry": "http://172.16.4.201:5201"
 		},
 		"bootstrap": {
 			"npmClientArgs": [
@@ -17,5 +16,5 @@
 			]
 		}
 	},
-	"version": "1.0.5"
+	"version": "1.0.6"
 }
